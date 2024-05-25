@@ -32,4 +32,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Book_Emily4.unity
     guid: 0a5185cde7989bc4fa8a2c88ba02c2b4
+  - enabled: 1
+    path: Assets/Scenes/night_hall.unity
+    guid: 3cb4f76148d9a5f4db31188665e90dc4
+  - enabled: 1
+    path: Assets/Scenes/night_room.unity
+    guid: f230c25cfb0ddd54a8762c2a46641855
+  - enabled: 1
+    path: Assets/Scenes/new_hall.unity
+    guid: 6dd1b19951069364ea0133df9dfa15a1
+  - enabled: 1
+    path: Assets/Scenes/new_room.unity
+    guid: 03102adfdf8196246894a6497f8c2c96
+  - enabled: 1
+    path: Assets/Scenes/new_game.unity
+    guid: 0899ef4bc3bba454a9560c605efcabf9
+  - enabled: 1
+    path: Assets/Scenes/night_game.unity
+    guid: 2056996c9a273a44a9af8a352129aba1
+  - enabled: 1
+    path: Assets/Scenes/night_kitchen.unity
+    guid: 06d27c21990541d4184183f49be1f820
+  - enabled: 1
+    path: Assets/Scenes/new_kitchen.unity
+    guid: c46d9990be9de9743ae836f108e03740
   m_configObjects: {}
